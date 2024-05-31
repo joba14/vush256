@@ -1,4 +1,8 @@
 
+<a href="https://github.com/joba14/vush256">
+	<img src="./logo.svg" alt="Logo" width="100">
+</a>
+
 ![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/languages-C-brightgreen.svg?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/platforms-All%3F-brightgreen.svg?style=for-the-badge)
